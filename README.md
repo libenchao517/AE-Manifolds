@@ -2,33 +2,17 @@
 这里是506实验室关于AE-LPP、AE-DLPP、AE-NPE、AE-DNPE等线性流形学习方法的源代码。
 
 ## 文章链接
-AE-LPP: [Locality Preserving Projections with Autoencoder](https://doi.org/10.1016/j.eswa.2023.122750
-        
-        
-        
-        )
+AE-LPP: [Locality Preserving Projections with Autoencoder](https://doi.org/10.1016/j.eswa.2023.122750)
 
 AE-DLPP: [Autoencoder-based Discriminant Locality Preserving Projections](https://ieeexplore.ieee.org/document/10929654)
 
-AE-NPE: [Neighborhood Preserving Embedding with Autoencoder](https://doi.org/10.1016/j.dsp.2023.104331
-        
-        
-        
-        )
+AE-NPE: [Neighborhood Preserving Embedding with Autoencoder](https://doi.org/10.1016/j.dsp.2023.104331)
 
 AE-DNPE: [Discriminant Neighborhood Preserving Embedding with Autoencoder](https://ieeexplore.ieee.org/abstract/document/10911575)
 
-AE-IsoP: [Isometric Projection with Reconstruction](https://doi.org/10.1007/s11227-023-05354-5
-        
-        
-        
-        )
+AE-IsoP: [Isometric Projection with Reconstruction](https://doi.org/10.1007/s11227-023-05354-5)
 
-AE-LTSA: [Linear Local Tangent Space Alignment with Autoencoder](https://doi.org/10.1007/s40747-023-01055-x
-        
-        
-        
-        )
+AE-LTSA: [Linear Local Tangent Space Alignment with Autoencoder](https://doi.org/10.1007/s40747-023-01055-x)
 
 ## 参考文献
 如果这几项工作对你有帮助，请考虑引用下面的文章：
